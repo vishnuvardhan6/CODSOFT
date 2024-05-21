@@ -42,4 +42,3 @@ public class GradeCalculator {
         }
     }
 }
-grade calculator
